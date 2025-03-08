@@ -1,0 +1,2 @@
+This is my repo for my Lab 2 for my Mobile Application Development class using Android Studio wrote in Kotlin. This Task Manager application, built using Jetpack Compose, allows users to add, complete, and delete tasks from a dynamically updating list. It features state management with remember and mutableStateListOf to ensure real-time updates and a visually distinct completed-task style.
+To run the project, open it in Android Studio, connect a device or emulator, and click "Run."
